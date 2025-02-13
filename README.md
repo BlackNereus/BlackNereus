@@ -23,6 +23,9 @@
   <a href="https://www.instagram.com/blacknereus" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="25" alt="instagram logo"  />
   </a>
+  <a href="blacknereus.2106@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -83,7 +86,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/blacknereus">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dcdngt3qpws7iczp63fdxoifie" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=blacknereus&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -94,3 +97,4 @@
 </div>
 
 ###
+
